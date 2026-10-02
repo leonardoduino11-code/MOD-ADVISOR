@@ -1,5 +1,14 @@
 {
   "version": 1,
-  "mods": []
+  "mods": [
+    {
+      "id": "kingmods-73932",
+      "title": "Raccolta realistica",
+      "description": "Script per una raccolta più realistica in Farming Simulator 25.",
+      "url": "https://www.kingmods.net/it/fs25/mods/73932/raccolta-realistica",
+      "image_url": "https://www.kingmods.net/uploads/fs25/mods/realistic-harvesting-fs25-qy0I5.jpg",
+      "source": "KingMods",
+      "category": "Script"
+    }
+  ]
 }
-
